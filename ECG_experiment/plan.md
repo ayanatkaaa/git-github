@@ -5,8 +5,8 @@ The list of hospitals is :
 
 ### * UCLH
 
-### * St Mary's hospital
+### * Whittinghton
 
-### * Royal L
+### * Royal Free
 
 #check
